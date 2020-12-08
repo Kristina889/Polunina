@@ -1,5 +1,27 @@
-# Object file
-*.o
+### Windows ###
+# Файлы кэша миниатюр Windows
+Пальцы.дБ
+Пальцы.БД: шифруется
+большие пальцы.дБ
+ehthumbs_vista.дБ
 
-# Ada Library Information
-*.ali
+# Файл дампа
+*.стэкдамп
+
+# Папка конфигурационный файл
+[Dd]эсктоп.ini
+
+# Корзина, используемая в общих файловых ресурсах
+$ПЕРЕРАБАТЫВАТЬ.BIN/
+
+# Файлы установщика Windows
+*.кэб
+*.компания MSI
+*.msix
+*.МСМ
+*.ССП
+
+# ярлыки Windows
+*.lnk
+
+# Конец https://www.toptal.com/developers/gitignore/api/windows
